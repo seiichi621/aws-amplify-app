@@ -26,7 +26,7 @@ function App() {
 
   return (
     <div className="container">
-      <h2>My Pixabay</h2>
+      <h2>My Pixabay01</h2>
       <form onSubmit={(e) => hadleSubmit(e)}>
         <input type="text" placeholder="画像を探す" ref={ref}></input>
       </form>
